@@ -1,4 +1,6 @@
 ![image](https://github.com/awirnr/awirnr/assets/107608510/6d37e123-2ac7-4143-a6d4-f411d42b8db9)
+ <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" height=48 width=48 /> [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/373376349/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373376349/week.md)
+[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/373376349/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373376349/week.md)
 <div>
     <h4>awirnr social media </h4> 
     <a href="https://t.me/avsnr"><img src="https://img.shields.io/badge/telegram-123456?style=for-the-badge&logo=telegram&logoColor=blue"></a>
