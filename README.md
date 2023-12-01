@@ -8,3 +8,6 @@
     <a href="https://www.instgram.com/@avsnrr"><img src="https://img.shields.io/badge/instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=black"></a>
   </div>
 
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=awirnr&show_icons=true alt=awirnr />
+</p>
