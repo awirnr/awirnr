@@ -1,4 +1,4 @@
-![image](https://github.com/awirnr/awirnr/assets/10760851/6d37e123-2ac7-4143-a6d4-f411d42b8db9)
+![image](https://github.com/awirnr/awirnr/assets/107608510/6d37e123-2ac7-4143-a6d4-f411d42b8db9)
 <div>
     <h4>awirnr social media </h4> 
     <a href="https://t.me/avsnr"><img src="https://img.shields.io/badge/telegram-123456?style=for-the-badge&logo=telegram&logoColor=blue"></a>
