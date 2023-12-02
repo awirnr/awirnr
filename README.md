@@ -3,8 +3,10 @@
 <div>
     <h4>awirnr social media </h4> 
     <a href="https://t.me/avsnr"><img src="https://img.shields.io/badge/telegram-123456?style=for-the-badge&logo=telegram&logoColor=blue"></a>
-     <a href="https://https://twitter.com/avsnrrr"><img src="https://img.shields.io/badge/twitter-2916b5?style=for-the-badge&logo=twitter&logoColor=blue"></a>
-    <a href="https://www.instgram.com/@avsnrr"><img src="https://img.shields.io/badge/instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=black"></a>
+     <a href="https://https://twitter.com/avsnrrr"><img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=blue"></a>
+    <a href="https://www.instgram.com/@avsnrr"><img src="https://img.shields.io/badge/instagram-FD1D1D?style=for-the-badge&logo=instagram&logoColor=black"></a>
+	<a herf="https://www.facebook.com/arvsnr"><img
+src="https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=black"></a>
   </div>
 
 <p align="center">
