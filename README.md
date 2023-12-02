@@ -7,6 +7,8 @@
     <a href="https://www.instgram.com/@avsnrr"><img src="https://img.shields.io/badge/instagram-FD1D1D?style=for-the-badge&logo=instagram&logoColor=black"></a>
 	<a herf="https://www.facebook.com/arvsnr"><img
 src="https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=black"></a>
+	<a href="https://link.me/avsnr"><img
+src="https://img.shields.io/badge/linkme-800080?style=for-the-badge&logo=linkme&logoColor=black"></a>
   </div>
 
 <p align="center">
