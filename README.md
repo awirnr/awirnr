@@ -19,7 +19,7 @@ src="https://img.shields.io/badge/linkme-800080?style=for-the-badge&logo=linkme&
 >
 ![Stats](https://github-readme-stats.vercel.app/api?username=awirnr&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true-width="150%)
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=awirnr&show_icons=true&hide_border=true" alt="awirnr's Github Stats" width="72%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awirnr&show_icons=true&hide_border=true" alt="awirnr's Github Stats" width="71.5%" />
 
 </a>
  
