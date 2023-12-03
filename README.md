@@ -12,10 +12,17 @@ src="https://img.shields.io/badge/linkme-800080?style=for-the-badge&logo=linkme&
   </div>
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=awirnr&show_icons=true alt=awirnr />
+	<img src=https://github-readme-stats.vercel.app/api?username=awirnr&show_icons=true alt=awirnr width="100%" />
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=awirnr&show_icons=true&theme=gotham" alt="awirnr" />
-	
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=awirnr&show_icons=true&theme=gotham" alt="awirnr" width="100%" />
+
+>
+![Stats](https://github-readme-stats.vercel.app/api?username=awirnr&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true-width="150%)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=awirnr&show_icons=true&hide_border=true" alt="awirnr's Github Stats" width="72%" />
+
+</a>
+ 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
